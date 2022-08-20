@@ -44,7 +44,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=piyushcodes6&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <div align="center">
 
