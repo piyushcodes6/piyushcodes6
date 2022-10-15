@@ -30,6 +30,11 @@ width="45" /> I'm Piyush Goswami</h1>
 	<img src="https://activity-graph.herokuapp.com/graph?username=piyushcodes6&theme=minimal"/>
 </p>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushcodes6&theme=vue"/>
+</p>
+
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=piyushcodes6&show_icons=true&theme=vue" />
