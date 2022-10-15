@@ -32,8 +32,8 @@ width="45" /> I'm Piyush Goswami</h1>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HimGos&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HimGos&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=piyushcodes6&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushcodes6&theme=vue" />
 </p>
 
 
