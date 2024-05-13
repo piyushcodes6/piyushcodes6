@@ -1,6 +1,4 @@
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-height="45"
-width="45" /> I'm Piyush Goswami</h1>
+<h1 align="center"> Hi, I'm Piyush Goswami</h1>
 
 
 # 💫 About Me :
